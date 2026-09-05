@@ -241,21 +241,7 @@ The main modification is inside:
 parseRegularAprsData()
 ```
 
-### Temporary debugging file
 
-Temporary debugging was added to:
-
-```text
-/usr/lib/python3/dist-packages/owrx/lora.py
-```
-
-The temporary line was:
-
-```python
-logger.warning("LORA DEBUG BEFORE REGEX: %r", payload)
-```
-
-This debugging line can now be removed.
 
 ## 12. Current Status
 
