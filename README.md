@@ -1,6 +1,3 @@
-# OpenwebRX_LoRa_APRS_for_CA2RXU_packets-
-
-
 # OpenWebRX+ / LoRa APRS — Technical Work Report
 
 **Date:** 5 September 2026
